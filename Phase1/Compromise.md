@@ -18,3 +18,11 @@
 ![image](https://github.com/user-attachments/assets/b10c49c1-c94b-43c3-acf1-6d00710de791)
 
 # Task1.2 Compromising the Service Using a Custom Script
+## Here is a simple script that will take the host and victem addresses and try to exploit the FTP service
+## If successful, we should be on the shell
+![image](https://github.com/user-attachments/assets/e5eac59b-1e23-434f-bd9c-449d945a0330)
+
+## Running the script
+![image](https://github.com/user-attachments/assets/d393cb09-27f9-4498-a88d-4daeb143ce35)
+
+## And we are on the shell!
